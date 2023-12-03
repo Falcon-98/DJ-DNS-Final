@@ -1,3 +1,8 @@
+
+<p align="center"> 
+	<img src="images/smlogo.png" alt="DJ DNS Luxury Limousine Services Logo" width="200"/> <br>
+</p>
+
 # DJ DNS Luxury Limousine Services
 
 Welcome to DJ DNS Luxury Limousine Services! We are delighted to provide you with a luxurious and professional transportation experience. Whether you're planning a special event, a corporate function, or just want to arrive in style, our fleet of premium vehicles and dedicated team are here to meet your every need.
